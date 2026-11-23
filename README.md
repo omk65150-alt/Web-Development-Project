@@ -1,40 +1,7 @@
 # Web-Development-Project
 INDIAN FLAG PROJECT
 
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <title>shapes</title>
-        <link rel="stylesheet" href="style flag.css">
-    </head>
-    <body>
-        <h1>THE INDIAN FLAG</h1>
-        <div>
-            <div id="box1"></div>
-                <div id="box2">
-                    <div id="chakra">
-                        <div class="line"></div>
-                        <div class="line"></div>
-                        <div class="line"></div>
-                        <div class="line"></div>
-                        <div class="line"></div>
-                        <div class="line"></div>
-                        <div class="line"></div>
-                        <div class="line"></div>
-                        <div class="line"></div>
-                        <div class="line"></div>
-                        <div class="line"></div>
-                        <div class="line"></div>
-                    </div>
-                </div>
-             <div id="box3"></div>
-        </div>
-    
-    </body>
-</html>
-
-Style.css for flag
-
+style.css for flag
 
 h1{
     font-size: 28px;
